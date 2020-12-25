@@ -1,4 +1,4 @@
-# Created using React and Javascript
+# https://indrawirananta.github.io/SortVisualizer/
 Front end : Indra Wirananta 1303194004 &
 Back end : Indra Wirananta 1303194004 & Raka Mahendra 1303194070
 
